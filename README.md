@@ -1,3 +1,5 @@
+# MAIN INFORMATION / ANTI-IDIOT DOCUMENTATION
+
 # HELP CENTER
 - A - Problem
 - B - Reason/Fix
