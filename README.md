@@ -1,6 +1,6 @@
 # MAIN INFORMATION / ANTI-IDIOT DOCUMENTATION
-I am NOT an Aether Hub Developer, and I cant fix your gatling problems. All I can do is tell you to change gatling variants.
-I dont know how to help you with your Honda Civic 15 Pro MAX not executing strategies.
+- I am NOT an Aether Hub Developer, and I cant fix your gatling problems. All I can do is tell you to change gatling variants.
+- I dont know how to help you with your Honda Civic 15 Pro MAX not executing strategies.
 
 # HELP CENTER
 - A - Problem
