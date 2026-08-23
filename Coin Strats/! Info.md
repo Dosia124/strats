@@ -15,6 +15,17 @@ if you dont have vip in tds, please dm me on discord, i will need your help
 4. Mercenary Base
 5. DJ Booth
 ```
+
+## Modifiers
+```
+Hidden Enemies
+Glass
+Exploding enemies
+Limitation
+Commited
+Quarantine
+Fog
+```
 ___
 ## Lay By v6 (2x TimeScale)
 ```
@@ -29,4 +40,16 @@ ___
 3. Gatling Gun
 4. Mercenary Base
 5. Firework Technician
+```
+
+## Modifiers
+```
+Hidden Enemies
+Glass
+Exploding enemies
+Limitation
+Commited
+Quarantine
+Fog
+Broke
 ```
