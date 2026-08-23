@@ -1,4 +1,4 @@
-# Normal Variant (VIP & 2x TimeScale)
+# Normal Variant (2x TimeScale)
 `2 274 XP/hr`, same for ALL strategies of this type.
 
 ## Towers
