@@ -1,5 +1,7 @@
 # HELP CENTER
-
+- A - Problem
+- B - Reason/Fix
+___
 - A - Losing on wave 12
 - B - Gatling is'nt shooting
 ___
