@@ -1,7 +1,7 @@
 getgenv().AntiLag = true; getgenv().AutoMercenary = true; getgenv().MaxPathDistance = 313; getgenv().AutoRejoin = true; getgenv().AutoRestart = false
 
 local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/DuxiiT/auto-strat/refs/heads/main/Library.lua"))()
-TDS:Loadout("Trapper", "Hacker", "Gatling Gun", "Mercenary Base", "Shotgunner")
+TDS:Loadout("Trapper", "Hacker", "Gatling Gun", "Mercenary Base", "EvolvedEnforcer")
 TDS:Mode("Frost")
 TDS:GameInfo("Summer Castle", {HiddenEnemies = true, Glass = true, ExplodingEnemies = true, Limitation = true, Committed = true, Quarantine = true, Fog = true})
 
