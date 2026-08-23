@@ -2,7 +2,7 @@
 
 - A - Losing on wave 12
 - B - Gatling is'nt shooting
-___
+__
 - A - Losing on wave 40
 - B - Gatling is'nt being cloned
 
