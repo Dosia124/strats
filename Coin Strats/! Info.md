@@ -1,6 +1,3 @@
-if you dont have vip in tds, please dm me on discord, i will need your help
-
-# Results / Rewards/hr
 # Lay By v5.3 (2x TimeScale)
 ```
 30 669 Coins/hr
