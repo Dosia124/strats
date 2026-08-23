@@ -1,7 +1,7 @@
 if you dont have vip in tds, please dm me on discord, i will need your help
 
 # Results / Rewards/hr
-## Lay By v5.3 (2x TimeScale)
+# Lay By v5.3 (2x TimeScale)
 ```
 30 669 Coins/hr
 7356 XP/hr
@@ -27,7 +27,7 @@ Quarantine
 Fog
 ```
 ___
-## Lay By v6 (2x TimeScale)
+# Lay By v6 (2x TimeScale)
 ```
 37 620 Coins/hr
 9 024 XP/hr
