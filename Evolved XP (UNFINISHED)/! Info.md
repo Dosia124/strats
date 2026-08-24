@@ -20,13 +20,14 @@ Quarantine
 Fog
 ```
 
-# 4 Evolved Towers in 1 (2x TimeScale) - UNFINISHED
+# 3 Evolved Towers in 1 (2x TimeScale) - UNFINISHED
 `2 274 XP/hr`
+There is NO Operator, because he SUCKS, and im NOT using him. If you really need a strat with ALL evolved towers, do it urself.
 
 ## Towers
 ```
-1. Gatling Gun
-2. Operator
+1. Trapper
+2. Gatling Gun
 3. Kingpin
 4. Juggernaut
 5. Enforcer
@@ -39,5 +40,5 @@ Exploding enemies
 Limitation
 Committed
 Quarantine
-unknown
+Fog
 ```
