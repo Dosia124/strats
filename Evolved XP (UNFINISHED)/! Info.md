@@ -18,5 +18,26 @@ Limitation
 Commited
 Quarantine
 Fog
-Broke
+```
+
+# 4 Evolved Towers in 1 (2x TimeScale) - UNFINISHED
+`2 274 XP/hr`
+
+## Towers
+```
+1. Gatling Gun
+2. Operator
+3. Kingpin
+4. Juggernaut
+5. Enforcer
+```
+## Modifiers
+```
+Hidden Enemies
+Glass
+Exploding enemies
+Limitation
+Committed
+Quarantine
+unknown
 ```
