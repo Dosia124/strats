@@ -22,6 +22,7 @@ Fog
 
 # 3 Evolved Towers in 1 (2x TimeScale) - UNFINISHED
 `2 274 XP/hr`
+
 There is NO Operator, because he SUCKS, and im NOT using him. If you really need a strat with ALL evolved towers, do it urself.
 
 ## Towers
