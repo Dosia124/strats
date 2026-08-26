@@ -1,4 +1,4 @@
-getgenv().AutoDJ = true; getgenv().AutoChain = true; getgenv().AutoSupportCaravan = true;
+getgenv().AutoDJ = true; getgenv().AutoChain = true; getgenv().SupportCaravan = true;
 local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/DuxiiT/auto-strat/refs/heads/main/Library.lua"))()
 
 TDS:Loadout("Cowboy", "Tesla", "Minigunner", "DJ Booth", "Commander")
