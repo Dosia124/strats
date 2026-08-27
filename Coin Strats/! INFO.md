@@ -1,7 +1,7 @@
 # Lay By v6 (2x Time Scale)
 ```
 37 620 Coins/hr
-9 024 XP/hr
+6 818 XP/hr
 640 Gems/hr
 ```
 ## Towers
@@ -58,7 +58,7 @@ ___
 # Lay By v5.3 (2x Time Scale)
 ```
 30 669 Coins/hr
-7356 XP/hr
+5 873 XP/hr
 524 Gems/hr
 ```
 ## Towers
