@@ -80,4 +80,4 @@ Quarantine
 Fog
 Broke
 ```
-
+<img width="697" height="317" alt="image" src="https://github.com/user-attachments/assets/e350f239-a21f-4ee4-a120-0fe5cd1d0b55" />
