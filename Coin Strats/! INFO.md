@@ -1,3 +1,29 @@
+# Gatlination X (2x Time Scale)
+```
+testing
+```
+## Towers
+```
+1. Trapper
+2. Hacker
+3. Gatling Gun
+4. Mercenary Base
+5. Firework Technician
+```
+
+## Modifiers
+```
+Hidden Enemies
+Glass
+Exploding enemies
+Limitation
+Committed
+Quarantine
+Fog
+Broke
+```
+
+___
 # Lay By v6 (2x Time Scale)
 ```
 37 620 Coins/hr
