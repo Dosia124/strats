@@ -3,9 +3,9 @@ getgenv().AntiLag = true; getgenv().AutoRejoin = true; getgenv().AutoRestart = f
 local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/DuxiiT/auto-strat/refs/heads/main/Library.lua"))()
 TDS:Loadout("Trapper", "Hacker", "Gatling Gun", "EvolvedOperator", "EvolvedEnforcer")
 TDS:Mode("Fallen")
-TDS:GameInfo("Summer Castle", {HiddenEnemies = true, Glass = true, ExplodingEnemies = true, Limitation = true, Committed = true, Quarantine = true, Fog = true, Broke = true})
+TDS:GameInfo("Summer Castle", {HiddenEnemies = true, Glass = true, ExplodingEnemies = true, Limitation = true, Committed = true, Quarantine = true, Fog = true, SpeedyEnemies = true, Broke = true})
 
-TDS:VoteSkip(10, 39)
+TDS:VoteSkip(11, 39)
 TDS:Place("Trapper", 16.109100341796875, 0.9744765758514404, 18.9939022064209) --1
 TDS:Ready()
 TDS:Place("Trapper", 10.98687744140625, 0.968543529510498, 20.330904006958008) --2
