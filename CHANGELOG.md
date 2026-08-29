@@ -1,6 +1,6 @@
 ## 29/08
-- Full rewrite for 'Gatlination.lua' due to dumb TDS update that killed Frost Mode.
-- All 'Evolved XP' strats updated.
+- Full rewrite for `Gatlination.lua` due to dumb TDS update that killed Frost Mode.
+- All `Evolved XP` strats updated.
 
 ___
 ## 27/08
