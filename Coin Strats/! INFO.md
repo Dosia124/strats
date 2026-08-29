@@ -1,8 +1,7 @@
 # Gatlination (2x Time Scale)
 ```
-34 277 Coins/hr
-5 873 XP/hr (No boosts)
-524 Gems/hr
+Coins: 30 727+/hr
+XP: 5 682+/hr 
 ```
 ## Towers
 ```
@@ -22,5 +21,6 @@ Limitation
 Committed
 Quarantine
 Fog
+Broke
 ```
 <img width="702" height="325" alt="image" src="https://github.com/user-attachments/assets/d7a91e7d-7c22-4c04-ad9d-fcd0f37f7836" />
