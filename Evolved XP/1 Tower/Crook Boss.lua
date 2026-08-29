@@ -71,7 +71,7 @@ TDS:Upgrade(13)
 TDS:Upgrade(9)
 TDS:Upgrade(12)
 TDS:Upgrade(13)
-TDS:Upgrade(12, 2)
-TDS:Upgrade(13, 2)
+TDS:Upgrade(10, 2)
+TDS:Upgrade(11, 2)
 
 TDS:Place("Crook Boss", 12.546310424804688, 0.9754481315612793, 26.37713623046875) --12
