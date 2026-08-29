@@ -1,89 +1,50 @@
-getgenv().AntiLag = true; getgenv().AutoMercenary = true; getgenv().MaxPathDistance = 313; getgenv().AutoRejoin = true; getgenv().AutoRestart = false
+getgenv().AntiLag = true; getgenv().AutoRejoin = true; getgenv().AutoRestart = false
 
 local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/DuxiiT/auto-strat/refs/heads/main/Library.lua"))()
-TDS:Loadout("Trapper", "Gatling Gun", "Mercenary Base", "Crook Boss", "Minigunner")
-TDS:Mode("Frost")
-TDS:GameInfo("Summer Castle", {HiddenEnemies = true, Glass = true, ExplodingEnemies = true, Limitation = true, Committed = true, Quarantine = true, Fog = true})
+TDS:Loadout("Trapper", "Hacker", "Gatling Gun", "Crook Boss", "Minigunner")
+TDS:Mode("Fallen")
+TDS:GameInfo("Summer Castle", {HiddenEnemies = true, Glass = true, ExplodingEnemies = true, Limitation = true, Committed = true, Quarantine = true, Fog = true, Broke = true})
 
-TDS:VoteSkip(7, 39)
-TDS:Place("Trapper", 3.037771224975586, 0.9684755802154541, 33.974693298339844) --1
+TDS:VoteSkip(10, 39)
+TDS:Place("Trapper", 16.109100341796875, 0.9744765758514404, 18.9939022064209) --1
 TDS:Ready()
-TDS:Place("Trapper", 3.050771713256836, 0.9660511016845703, 30.88339614868164) --2
-TDS:Place("Trapper", 3.084156036376953, 0.9637057781219482, 27.857040405273438) --3
-TDS:Place("Trapper", 3.028829574584961, 0.9611811637878418, 24.756916046142578) --4
+TDS:Place("Trapper", 10.98687744140625, 0.968543529510498, 20.330904006958008) --2
 TDS:Upgrade(2)
+TDS:Upgrade(1)
+TDS:Place("Trapper", 16.051319122314453, 0.9414479732513428, 15.954482078552246) --3
 TDS:Upgrade(3)
+TDS:Place("Trapper", 19.128238677978516, 0.9785783290863037, 18.971010208129883) --4
 TDS:Upgrade(4)
-TDS:Upgrade(4)
-TDS:SetOption(4, "Trap", "Landmine")
-TDS:SetTarget(4, "Last")
-TDS:SetTarget(4, "Strongest")
-TDS:Place("Gatling Gun", -27.217533111572266, 0.9903836250305176, -31.249570846557617) --5
+TDS:Place("Trapper", 21.974578857421875, 0.981574296951294, 17.847187042236328) --5
 TDS:Upgrade(5)
-TDS:Upgrade(5)
-TDS:Place("Mercenary Base", -36.05603790283203, 0.9912831783294678, -33.49199676513672) --6
+TDS:Place("Trapper", 22.9644775390625, 0.9752120971679688, 14.970300674438477) --6
 TDS:Upgrade(6)
-TDS:Upgrade(6)
-TDS:Upgrade(6)
-TDS:Upgrade(6)
-TDS:SetOption(6, "Unit 1", "Riot Guard")
-TDS:SetOption(6, "Unit 2", "Riot Guard")
-TDS:SetOption(6, "Unit 3", "Riot Guard")
-TDS:Place("Mercenary Base", -30.900976181030273, 0.9912862777709961, -33.500831604003906) --7
+TDS:Place("Trapper", 10.860502243041992, 0.9707396030426025, 23.329011917114258) --7
 TDS:Upgrade(7)
-TDS:Upgrade(7)
-TDS:Upgrade(7)
-TDS:Upgrade(7)
-TDS:SetOption(7, "Unit 1", "Riot Guard")
-TDS:SetOption(7, "Unit 2", "Riot Guard")
-TDS:SetOption(7, "Unit 3", "Riot Guard")
-TDS:Place("Mercenary Base", -30.837772369384766, 0.9894695281982422, -28.96784019470215) --8
+TDS:VoteSkip(10)
+TDS:Place("Gatling Gun", -27.217533111572266, 0.9903836250305176, -31.249570846557617) --8
 TDS:Upgrade(8)
 TDS:Upgrade(8)
 TDS:Upgrade(8)
 TDS:Upgrade(8)
-TDS:SetOption(8, "Unit 1", "Riot Guard")
-TDS:SetOption(8, "Unit 2", "Riot Guard")
-TDS:SetOption(8, "Unit 3", "Riot Guard")
-TDS:Upgrade(6)
-TDS:Upgrade(7)
 TDS:Upgrade(8)
-TDS:Upgrade(5)
-TDS:Upgrade(5)
-TDS:Upgrade(6)
-TDS:Upgrade(7)
 TDS:Upgrade(8)
-TDS:Upgrade(5)
-TDS:Upgrade(5)
+TDS:Place("Hacker", 6.097320556640625, 0.9701399803161621, 30.797021865844727) --9
+TDS:Upgrade(9)
+TDS:Upgrade(9)
+TDS:Place("Hacker", 22.965129852294922, 0.9872190952301025, 28.965984344482422) --10
+TDS:Upgrade(10)
+TDS:Upgrade(10)
+TDS:Upgrade(9)
+TDS:Upgrade(9)
+TDS:Upgrade(10)
+TDS:Upgrade(10)
+TDS:Ability(9, "Hologram Tower", {towerPosition = Vector3.new(-27.22711753845215, 0.9885187149047852, -26.59650230407715), towerToClone = 8}, true)
+TDS:Ability(10, "Hologram Tower", {towerPosition = Vector3.new(-27.22711753845215, 0.9885187149047852, -26.59650230407715), towerToClone = 8}, true)
+TDS:WaitForWave(38)
+TDS:Upgrade(9, 2)
+TDS:Upgrade(10, 2)
 
-TDS:Place("Crook Boss", 10.97389030456543, 0.9714627265930176, 24.048553466796875)
-TDS:Place("Crook Boss", 14.058345794677734, 0.9757294654846191, 24.12166976928711)
-TDS:Place("Crook Boss", 17.111495971679688, 0.9798417091369629, 24.05358123779297)
-TDS:Place("Crook Boss", 12.412860870361328, 0.9755392074584961, 26.722965240478516)
-TDS:Place("Crook Boss", 15.587936401367188, 0.9798617362976074, 26.71039581298828)
-TDS:Upgrade(9)
-TDS:Upgrade(9)
-TDS:Upgrade(9)
-TDS:Upgrade(9)
-TDS:Upgrade(12)
-TDS:Upgrade(12)
-TDS:Upgrade(12)
-TDS:Upgrade(12)
-TDS:Upgrade(10)
-TDS:Upgrade(10)
-TDS:Upgrade(10)
-TDS:Upgrade(10)
-TDS:Upgrade(13)
-TDS:Upgrade(13)
-TDS:Upgrade(13)
-TDS:Upgrade(13)
-TDS:Upgrade(11)
-TDS:Upgrade(11)
-TDS:Upgrade(11)
-TDS:Upgrade(11)
+TDS:Place("Crook Boss", 17.945087432861328, 0.9868543148040771, 33.873382568359375)
 
-TDS:Place("Minigunner", 17.878005981445312, 0.9868614673614502, 33.894126892089844)
-TDS:Upgrade(14)
-TDS:Upgrade(14)
-TDS:Upgrade(14)
-TDS:Upgrade(14)
+TDS:Place("Minigunner", 15.779468536376953, 0.9804263114929199, 27.094398498535156)
