@@ -27,10 +27,14 @@ TDS:Upgrade(8)
 TDS:Upgrade(8)
 TDS:Upgrade(8)
 TDS:Upgrade(8)
-TDS:Place("Mercenary Base", -36.05603790283203, 0.9912831783294678, -33.49199676513672) --9
+TDS:Place("Mercenary Base", -30.900976181030273, 0.9912862777709961, -33.500831604003906) --9
 TDS:Upgrade(9)
 TDS:Upgrade(9)
 TDS:Upgrade(9)
+TDS:Upgrade(9)
+TDS:SetOption(9, "Unit 1", "Riot Guard")
+TDS:SetOption(9, "Unit 2", "Riot Guard")
+TDS:SetOption(9, "Unit 3", "Riot Guard")
 TDS:Upgrade(8)
 TDS:Upgrade(8)
 TDS:Place("Hacker", 6.097320556640625, 0.9701399803161621, 30.797021865844727) --10
@@ -45,11 +49,7 @@ TDS:Upgrade(11)
 TDS:Upgrade(11)
 TDS:Ability(10, "Hologram Tower", {towerPosition = Vector3.new(-27.22711753845215, 0.9885187149047852, -26.59650230407715), towerToClone = 8}, true)
 TDS:Ability(11, "Hologram Tower", {towerPosition = Vector3.new(-27.22711753845215, 0.9885187149047852, -26.59650230407715), towerToClone = 8}, true)
-TDS:Upgrade(9)
-TDS:SetOption(9, "Unit 1", "Riot Guard")
-TDS:SetOption(9, "Unit 2", "Riot Guard")
-TDS:SetOption(9, "Unit 3", "Riot Guard")
-TDS:Place("Mercenary Base", -30.900976181030273, 0.9912862777709961, -33.500831604003906) --12
+TDS:Place("Mercenary Base", -36.05603790283203, 0.9912831783294678, -33.49199676513672) --12
 TDS:Upgrade(12)
 TDS:Upgrade(12)
 TDS:Upgrade(12)
