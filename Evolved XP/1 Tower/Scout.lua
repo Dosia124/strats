@@ -71,7 +71,7 @@ TDS:Upgrade(13)
 TDS:Upgrade(9)
 TDS:Upgrade(12)
 TDS:Upgrade(13)
-TDS:Upgrade(12, 2)
-TDS:Upgrade(13, 2)
+TDS:Upgrade(10, 2)
+TDS:Upgrade(11, 2)
 
 TDS:Place("Scout", 17.847015380859375, 0.9868488311767578, 33.962745666503906) --14
