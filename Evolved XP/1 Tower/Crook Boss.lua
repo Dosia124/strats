@@ -3,7 +3,7 @@ getgenv().AntiLag = true; getgenv().AutoMercenary = true; getgenv().MaxPathDista
 local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/DuxiiT/auto-strat/refs/heads/main/Library.lua"))()
 TDS:Loadout("Trapper", "Hacker", "Gatling Gun", "Mercenary Base", "Crook Boss")
 TDS:Mode("Fallen")
-TDS:GameInfo("Summer Castle", {HiddenEnemies = true, Glass = true, ExplodingEnemies = true, Limitation = true, Committed = true, Quarantine = true, Fog = true, Broke = true})
+TDS:GameInfo("Summer Castle", {HiddenEnemies = true, Glass = true, ExplodingEnemies = true, Limitation = true, Committed = true, Quarantine = true, Fog = true, SpeedyEnemies = true})
 
 TDS:VoteSkip(10, 39)
 TDS:Place("Trapper", 16.109100341796875, 0.9744765758514404, 18.9939022064209) --1
