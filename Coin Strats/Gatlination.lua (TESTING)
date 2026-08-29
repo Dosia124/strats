@@ -4,7 +4,7 @@ local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/DuxiiT/au
 TDS:Loadout("Trapper", "Hacker", "Gatling Gun", "Mercenary Base", "DJ Booth")
 TDS:Mode("Fallen")
 TDS:GameInfo("Lay By", {HiddenEnemies = true, Glass = true, ExplodingEnemies = true, Limitation = true, Committed = true, Quarantine = true, Fog = true, Broke = true})
-TDS:VoteSkip(12, 39)
+TDS:VoteSkip(11, 39)
 
 TDS:Place("Trapper", -2.5328121185302734, 242.99998474121094, 226.39573669433594) --1
 TDS:Ready()
@@ -42,12 +42,12 @@ TDS:SetOption(10, "Unit 1", "Riot Guard")
 TDS:SetOption(10, "Unit 2", "Riot Guard")
 TDS:SetOption(10, "Unit 3", "Riot Guard")
 TDS:Upgrade(10)
-TDS:Place("Hacker", 2.607633590698242, 242.99998474121094, 266.0155334472656) --11
+TDS:Place("Hacker", -2.5535125732421875, 242.99998474121094, 282.7915344238281) --11
 TDS:Upgrade(11)
 TDS:Upgrade(11)
 TDS:Upgrade(11)
 TDS:Upgrade(11)
-TDS:Place("Hacker", 2.569793701171875, 242.99996948242188, 235.95809936523438) --12
+TDS:Place("Hacker", 2.5345335006713867, 242.99998474121094, 266.0406799316406) --12
 TDS:Upgrade(12)
 TDS:Upgrade(12)
 TDS:Upgrade(12)
