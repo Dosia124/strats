@@ -1,6 +1,6 @@
 # 1 Tower (2x TimeScale)
 ```
-3 104 XP/hr For all strategies.
+3 104 XP/hr
 388 XP/game
 ```
 
