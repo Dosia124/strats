@@ -1,5 +1,6 @@
 # 1 Tower (2x TimeScale)
 ```
+34 016 Coins/hr
 3 104 XP/hr
 388 XP/game
 ```
@@ -28,6 +29,7 @@ Speedy Enemies
 ___
 # 2 Evolved Towers (2x TimeScale)
 ```
+34 016 Coins/hr
 3 104 XP/hr (6 208).
 388 XP/game (776)
 ```
@@ -55,6 +57,7 @@ Speedy Enemies
 ___
 # 2 Normal Towers (2x TimeScale)
 ```
+34 016 Coins/hr
 3 104 XP/hr (6 208).
 388 XP/game (776)
 ```
