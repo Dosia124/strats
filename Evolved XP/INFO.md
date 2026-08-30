@@ -1,4 +1,4 @@
-# Global (2x TimeScale)
+# 1 Tower Strats (2x TimeScale)
 ```
 2 274 XP/hr For all strategies.
 360 XP/game
@@ -21,4 +21,5 @@ Limitation
 Commited
 Quarantine
 Fog
+Speedy Enemies
 ```
