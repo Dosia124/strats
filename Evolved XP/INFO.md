@@ -53,6 +53,7 @@ Quarantine
 Fog
 Speedy Enemies
 ```
+<img width="704" height="327" alt="image" src="https://github.com/user-attachments/assets/5929f23a-b567-457f-85cd-1599ccc9b083" />
 
 ___
 # 2 Normal Towers (2x TimeScale)
