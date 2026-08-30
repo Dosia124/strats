@@ -1,6 +1,6 @@
 # 1 Tower Strats (2x TimeScale)
 ```
-3104 XP/hr For all strategies.
+3 104 XP/hr For all strategies.
 388 XP/game
 ```
 
