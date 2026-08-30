@@ -18,7 +18,7 @@ Hidden Enemies
 Glass
 Exploding enemies
 Limitation
-Commited
+Committed
 Quarantine
 Fog
 Speedy Enemies
@@ -46,7 +46,7 @@ Hidden Enemies
 Glass
 Exploding enemies
 Limitation
-Commited
+Committed
 Quarantine
 Fog
 Speedy Enemies
@@ -73,7 +73,7 @@ Hidden Enemies
 Glass
 Exploding enemies
 Limitation
-Commited
+Committed
 Quarantine
 Fog
 Speedy Enemies
