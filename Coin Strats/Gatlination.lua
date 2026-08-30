@@ -4,7 +4,7 @@ TDS:Loadout("Trapper", "Hacker", "Gatling Gun", "Mercenary Base", "DJ Booth")
 TDS:Mode("Fallen")
 TDS:GameInfo("Lay By", {HiddenEnemies = true, Glass = true, SpeedyEnemies = true, Limitation = true, Committed = true, Fog = true, ExplodingEnemies = true, Quarantine = true})
 
-TDS:VoteSkip(8, 29)
+TDS:VoteSkip(8, 39)
 TDS:Place("Trapper", -2.6489198207855225, 243, 176)
 TDS:Ready()
 TDS:Place("Trapper", 2.570160150527954, 243, 175.9499969482422)
