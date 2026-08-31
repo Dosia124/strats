@@ -8,6 +8,7 @@
 - A - Problem
 - B - Reason/Fix
 ___
-Currently no active problems have been reported.
+- A - Dying on wave 5/6.
+- B - No Speedy Modificator/Using Auto-Skip
 ___
 If you have more UNIQUE problems, DM me on discord.
