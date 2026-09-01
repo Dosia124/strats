@@ -1,3 +1,7 @@
+## 01/09
+- Added a delay to gatling upgrades in `2 Evolved Towers` & `2 Normal Towers`.
+
+___
 ## 30/08
 - Big update for `Gatlination.lua` 30k/hr -> 34k/hr
 - All `Evolved EXP` strats updated. 2k EXP/hr -> 3k EXP/hr + 34k Coins/hr
