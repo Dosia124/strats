@@ -4,5 +4,5 @@
 2. Tesla
 3. Minigunner
 4. DJ Booth
-5. Commander/Rocketeer
+5. Commander
 ```
