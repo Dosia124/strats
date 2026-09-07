@@ -9,6 +9,6 @@
 - B - Reason/Fix
 ___
 - A - Dying on wave 5/6.
-- B - No Speedy Modificator/Using Auto-Skip
+- B - No Speedy Modificator/Using Auto-Skip.
 ___
 If you have more UNIQUE problems, DM me on discord.
