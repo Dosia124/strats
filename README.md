@@ -11,4 +11,7 @@ ___
 - A - Dying on wave 5/6.
 - B - No Speedy Modificator/Using Auto-Skip.
 ___
+- A - Dying on wave's 35-40.
+- B - Change gatling targets to 1.
+___
 If you have more UNIQUE problems, DM me on discord.
