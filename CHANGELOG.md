@@ -1,3 +1,7 @@
+## 09/09
+- Fixed a very strange bug on all strats (`Coin Strats`, `Evolved EXP`) where Gatling Guns wouldnt clone at all.
+
+___
 ## 01/09
 - Added a delay to gatling upgrades in `2 Evolved Towers` & `2 Normal Towers`.
 
