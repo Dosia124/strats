@@ -7,10 +7,10 @@ TDS:GameInfo("Lay By", {HiddenEnemies = true, Glass = true, SpeedyEnemies = true
 
 TDS:VoteSkip(8, 39)
 TDS:MedicChain(3, "Hologram")
-TDS:Place("Trapper", 2.5109329223632812, 243, 206.0631103515625)
+TDS:Place("Trapper", -2.6489198207855225, 243, 176)
 TDS:Ready()
 TDS:Upgrade(1)
-TDS:Place("Trapper", -2.6035265922546387, 243, 175.99365234375)
+TDS:Place("Trapper", 2.570160150527954, 243, 175.9499969482422)
 TDS:Upgrade(2)
 TDS:Place("Gatling Gun", 0.04171639680862427, 243, 149.94903564453125)
 TDS:Upgrade(3)
