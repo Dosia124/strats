@@ -1,4 +1,4 @@
-## 09/09
+## 12/09
 - Improved Late-Game in `Gatlination (test).lua`. Waves 30-40 should be 100% winrate now.
 
 ___
