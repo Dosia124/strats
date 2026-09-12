@@ -1,4 +1,8 @@
 ## 09/09
+- Improved Late-Game in `Gatlination (test).lua`. Waves 30-40 should be 100% winrate now.
+
+___
+## 09/09
 - Fixed a very strange bug on all strats (`Coin Strats`, `Evolved EXP`) where Gatling Guns wouldnt clone at all.
 
 ___
