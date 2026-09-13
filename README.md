@@ -9,9 +9,9 @@
 - B - Reason/Fix
 ___
 - A - Dying on wave 5/6.
-- B - No Speedy Modificator/Using Auto-Skip.
+- B - No Speedy Modifficator or Enabled Auto-Skip or Very bad RNG.
 ___
 - A - Dying on wave's 30-40.
-- B - Change gatling targets to 1.
+- B - Change gatling targets to 1. / Try using Railgun - Auto Gatling.
 ___
 If you have more UNIQUE problems, DM me on discord.
