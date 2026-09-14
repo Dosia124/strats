@@ -14,4 +14,7 @@ ___
 - A - Dying on wave's 30-40.
 - B - Change gatling targets to 1. / Try using Railgun - Auto Gatling.
 ___
+- A - Dying on wave 8.
+- B - Change gatling targets to 1. / Gatling isnt shooting.
+___
 If you have more UNIQUE problems, DM me on discord.
