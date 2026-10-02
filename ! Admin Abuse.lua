@@ -1,6 +1,6 @@
 local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/DuxiiT/auto-strat/refs/heads/main/Library.lua"))()
 
-TDS:Loadout("Demoman", "Gatling Gun", "Hacker", "Mercenary Base", "Turret")
+TDS:Loadout("Demoman", "Gatling Gun", "Hacker", "Mercenary Base", "Accelerator")
 TDS:Mode("NilZone2")
 TDS:GameInfo("Nil Zone II", {})
 
@@ -198,6 +198,3 @@ TDS:Upgrade(34)
 TDS:Upgrade(34)
 TDS:Upgrade(6, 2)
 TDS:Upgrade(5, 2)
-TDS:SetTarget(11, "Last")
-TDS:SetTarget(10, "Last")
-TDS:SetTarget(9, "Last")
