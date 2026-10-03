@@ -1,1 +1,0 @@
--- hello, why are you reading this already? the strat isnt even done yet?
