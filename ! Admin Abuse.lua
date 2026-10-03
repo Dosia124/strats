@@ -1,3 +1,4 @@
+getgenv().AntiLag = true; getgenv().AutoMercenary = true; getgenv().MercenaryPath = 138; getgenv().AutoRejoin = false; getgenv().AutoRestart = false; getgenv().AutoSkip = false;
 local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/DuxiiT/auto-strat/refs/heads/main/Library.lua"))()
 
 TDS:Loadout("Demoman", "Gatling Gun", "Hacker", "Mercenary Base", "Accelerator")
