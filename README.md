@@ -15,6 +15,6 @@ ___
 - B - Change gatling targets to 1. / Switch to Railgun / Medic isn't doing anything.
 ___
 - A - Dying on wave 8.
-- B - Gatling isnt shooting.
+- B - Gatling isnt shooting / Auto-Skip.
 ___
 If you have more UNIQUE problems, DM me on discord.
