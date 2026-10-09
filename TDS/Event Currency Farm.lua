@@ -1,1 +1,1 @@
-strat
+waiting wait
