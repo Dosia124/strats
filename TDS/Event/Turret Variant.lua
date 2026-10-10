@@ -3,7 +3,7 @@ local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/DuxiiT/au
 
 TDS:Loadout("Assassin", "Turret", "Crook Boss", "DJ Booth", "Commander")
 TDS:Mode("Fallen")
-TDS:GameInfo("Simplicity", {HiddenEnemies = true, Glass = true, Committed = true, Quarantine = true})
+TDS:GameInfo("Simplicity", {})
 
 TDS:VoteSkip(1, 34); TDS:VoteSkip(38, 39)
 TDS:Place("Assassin", -20.551414489746094, 0.9999844431877136, -12.080963134765625)
@@ -273,3 +273,5 @@ TDS:Upgrade(40)
 TDS:Upgrade(40)
 TDS:Upgrade(40)
 TDS:Upgrade(40)
+TDS:WaitForWave(40)
+for i = 1, 40 do TDS:Sell(i) end
