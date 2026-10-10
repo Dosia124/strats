@@ -5,7 +5,7 @@ TDS:Loadout("Assassin", "Turret", "Crook Boss", "DJ Booth", "Commander")
 TDS:Mode("Fallen")
 TDS:GameInfo("Simplicity", {HiddenEnemies = true, Glass = true, Committed = true, Quarantine = true})
 
-TDS:VoteSkip(1, 34)
+TDS:VoteSkip(1, 34); TDS:VoteSkip(38, 39)
 TDS:Place("Assassin", -20.551414489746094, 0.9999844431877136, -12.080963134765625)
 TDS:Place("Assassin", -20.752119064331055, 1.000002384185791, -14.122909545898438)
 TDS:Ready()
