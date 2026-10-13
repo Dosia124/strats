@@ -16,5 +16,3 @@ ___
 ___
 - A - Dying on wave 8+.
 - B - Gatling isnt shooting / Auto-Skip.
-___
-If you have more UNIQUE problems, DM me on discord.
