@@ -1,3 +1,4 @@
+task.wait(5)
 getgenv().AntiLag = true; getgenv().AutoMercenary = true; getgenv().MercenaryPath = 140; getgenv().AutoRejoin = true; getgenv().AutoRestart = false; getgenv().AutoDJ = true
 local TDS = loadstring(game:HttpGet("https://getaether.cc/loader.lua"))()
 task.wait(5)
