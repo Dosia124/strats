@@ -12,9 +12,7 @@ ___
 - B - No Speedy Modifficator / Auto-Skip.
 ___
 - A - Dying on wave's 30-40.
-- B - Change gatling targets to 1. / Switch to Railgun / Medic isn't doing anything.
+- B - Change gatling targets to 1. / Medic isn't doing anything.
 ___
 - A - Dying on wave 8+.
 - B - Gatling isnt shooting / Auto-Skip.
-___
-If you have more UNIQUE problems, DM me on discord.
