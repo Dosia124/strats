@@ -1,5 +1,5 @@
 getgenv().AntiLag = true; getgenv().AutoMercenary = true; getgenv().MercenaryPath = 140; getgenv().AutoRejoin = true; getgenv().AutoRestart = false
-local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/DuxiiT/auto-strat/refs/heads/main/Library.lua"))()
+local TDS = loadstring(game:HttpGet("https://getaether.cc/loader.lua"))()
 
 TDS:Loadout("Trapper", "Hacker", "Gatling Gun", "Crook Boss", "Shotgunner")
 TDS:Mode("Fallen")

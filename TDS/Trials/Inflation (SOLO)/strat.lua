@@ -1,5 +1,5 @@
 getgenv().AutoDJ = true; getgenv().AutoRejoin = true; getgenv().AutoRestart = false; getgenv().AutoMercenary = true; getgenv().MaxPathDistance = 241; getgenv().AntiLag = true
-local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/DuxiiT/auto-strat/refs/heads/main/Library.lua"))()
+local TDS = loadstring(game:HttpGet("https://getaether.cc/loader.lua"))()
 TDS:Loadout("Military Base", "Gatling Gun", "Hacker", "Mercenary Base", "DJ Booth")
 TDS:Mode("Trial")
 
