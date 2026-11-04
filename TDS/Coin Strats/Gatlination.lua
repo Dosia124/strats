@@ -6,7 +6,7 @@ TDS:Loadout("Trapper", "Hacker", "Gatling Gun", "Mercenary Base", "Medic")
 TDS:Mode("Fallen")
 TDS:GameInfo("Lay By", {HiddenEnemies = true, Glass = true, SpeedyEnemies = true, Limitation = true, Committed = true, Fog = true, ExplodingEnemies = true, Quarantine = true})
 
-TDS:VoteSkip(8, 29); TDS:VoteSkip(33, 39)
+TDS:VoteSkip(8, 29); TDS:VoteSkip(33, 36)
 TDS:MedicChain(3, "Hologram")
 TDS:Place("Trapper", -2.6489198207855225, 243, 176)
 TDS:Ready()
